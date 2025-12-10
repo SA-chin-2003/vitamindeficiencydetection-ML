@@ -49,7 +49,7 @@ Vitamin deficiency symptoms often show up subtly on the face (dry lips, pale ski
 
 ---
 
-## 🙋‍♂️ Authors
+## 🙋‍♂️ Developers
 
 **Sachidananda Mohanty** 
 Connect with me on [LinkedIn](https://linkedin.com/in/sachidananda-mohanty-2217as)  
