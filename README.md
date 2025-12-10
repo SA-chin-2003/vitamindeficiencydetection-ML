@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
 # 🧠 Vitamin Deficiency Detection Using Machine Learning
 
 A computer vision–based ML project to detect vitamin deficiencies from facial images — combining healthcare and AI for faster, smarter diagnostics.
@@ -52,6 +58,7 @@ Vitamin deficiency symptoms often show up subtly on the face (dry lips, pale ski
 ## 🙋‍♂️ Developers
 
 **Sachidananda Mohanty** 
+
 Connect with me on [LinkedIn](https://linkedin.com/in/sachidananda-mohanty-2217as)  
 Check out more projects on [GitHub](https://github.com/SA-chin-2003)
 
